@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<components
+	xmlns="http://www.jiehang.com/autumn/schema/components"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.jiehang.com/autumn/schema/components
+	http://www.jiehang.com/autumn/schema/components/jiehang_config.xsd">
+
+	<component name="com11" class="class11">
+		<property name="pro11">va11</property>
+	</component>
+
+	<component name="com22" class="class22">
+		<property name="pro22">va22</property>
+	</component>
+
+</components>
